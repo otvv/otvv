@@ -1,3 +1,3 @@
 ### i can't do shit.
 
-:crystal_ball: _otvv#6479_
+<img width="16" src="resources/discord.png" alt="discord">: **otvv#6479**
