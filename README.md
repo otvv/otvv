@@ -1,3 +1,5 @@
 ### i can't do shit.
 
-<img width="16" src="resources/discord.png" alt="discord"> **otvv#6479**
+<img align="left" src="https://raw.githubusercontent.com/otvv/otvv/master/resources/discord.png" width="20" height="20"/>
+
+**otvv#6479**
