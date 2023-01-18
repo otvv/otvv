@@ -3,9 +3,9 @@
 
 <h5>what i'm currently working on</h5>
 
-🦾 <i>muscl</i> - an easy to use and modular scripting language built to work alongside C++ applications
+🦾 <i>muscl</i> - an easy to use modular scripting language built to work alongside C++ applications
 
-<img width="22" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu framework built with game-hacking in mind
+<img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu framework built with game-hacking in mind
 
 <h5>what i'm currently studying/plan to</h5>
 
