@@ -25,7 +25,7 @@
 
 <img width="16" height="12" src="https://user-images.githubusercontent.com/17851066/169032215-e317fa7c-b8f2-49b0-8b4d-1876024e9f35.png" alt="discord_logo"> Suizld#6479
 
-<img width="16" height="16" src="https://user-images.githubusercontent.com/17851066/213254666-a165132b-401b-46fe-9a4e-29374d6e910c.png" alt="xbox_logo"> Suizld
+<img width="16" height="16" src="https://user-images.githubusercontent.com/17851066/213254666-a165132b-401b-46fe-9a4e-29374d6e910c.png" alt="xbox_logo"> suizld
 
 <img width="16" height="16" src="https://user-images.githubusercontent.com/17851066/213254933-2f7e73e7-d4fb-4f49-a077-f731fff51b4a.png" alt="steam_logo"> <a href="https://steamcommunity.com/profiles/76561198091657458/" target="_blank">Suizld</a>
 
