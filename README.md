@@ -22,6 +22,6 @@
 
 
 <h6>other contact info:</h6>
-📧 <a href="mailto:suizld@pm.me">e-mail</a>
+📧 <a href="mailto:suizld@pm.me">E-mail</a>
 <br>
 💼 <a href="https://www.linkedin.com/in/otvv/">LinkedIn</a>
