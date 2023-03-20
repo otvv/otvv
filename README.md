@@ -11,26 +11,30 @@
 <h4>known stacks:</h4>
 
 <ul>
+<h6>languages</h6>
   <li>➕ C++</li>
-  <li>🏗 CMake</li>
   <li>🌐 HTML5</li>
   <li>🎨 CSS3</li>
   <li>🟡 JavaScript</li>
+  <li>🌲 Node.js</li>
+<h6>frameworks</h6>
   <li>⚛️ React</li>
   <li>🚦 React Router</li>
   <li>🟪 Redux</li>
-  <li>🌲 Node.js</li>
-  <li>🃏 Jest</li>
-  <li>🦑 Testing Library
+<h6>systems</h6>
   <li>🐧 Linux</li>
-  <li>🌵 Git</li>
+  <li>🏗 CMake</li>
+  <li>🌵 Git</li> 
+<h6>testing libraries/frameworks</h6>
+  <li>🃏 Jest</li>
+  <li>🦑 React Testing Library</li>
+  <li>☕ Chai & Mocha</li>
 </ul>
 
-<h5>what i'm currently learning/planning to:</h5>
+<h4>what i'm currently learning/planning to:</h4>
 <ul>
   <li>☕ Java</li>
   <li>#️⃣ C#</li>
-  <li>⚙️ Rust</li>
   <li>🐋 Docker</li>
   <li>🔵 TypeScript</li>
   <li>🐬 MySQL</li>
