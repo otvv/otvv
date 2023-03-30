@@ -21,6 +21,7 @@
   <li>⚛️ React</li>
   <li>🚦 React Router</li>
   <li>🟪 Redux</li>
+  <li>🇽 ExpressJS</li>
 <h6>systems</h6>
   <li>🐧 Linux</li>
   <li>🏗 CMake</li>
@@ -40,6 +41,7 @@
   <li>🐬 MySQL</li>
   <li>🐍 Python</li>
   <li>⚛️ React Native</li>
+  <li>🐹 Golang</li>
 </ul>
 
 <hr>
