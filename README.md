@@ -5,7 +5,9 @@
 
 🦾 <i>muscl</i> - an easy to use modular scripting language built to work alongside C++ applications
 
-<img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu framework built with game-hacking in mind
+🖥️ <i>fgui 3.0</i> - a C++ gui framework built with gaming hacking in mind.
+
+<img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu/ui framework
 
 <hr>
 <h4>known stacks:</h4>
@@ -34,14 +36,11 @@
 
 <h4>what i'm currently learning/planning to:</h4>
 <ul>
+  <li>🔵 TypeScript</li>
   <li>☕ Java</li>
   <li>#️⃣ C#</li>
   <li>🐋 Docker</li>
-  <li>🔵 TypeScript</li>
   <li>🐬 MySQL</li>
-  <li>🐍 Python</li>
-  <li>⚛️ React Native</li>
-  <li>🐹 Golang</li>
 </ul>
 
 <hr>
