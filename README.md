@@ -1,9 +1,9 @@
-<h2>👋 hey there!</h2>
+<h2>hey there 👋</h2>
 
 
 <h4>what i'm currently working on</h4>
 
-🦾 <i>muscl</i> - an easy to use modular scripting language built to work alongside C++ applications
+🦾 <i>muscl</i> - an easy to use modular scripting language/parser built to work alongside C++ applications
 
 🖥️ <i>fgui 3.0</i> - a C++ gui framework built with gaming hacking in mind
 
@@ -46,6 +46,6 @@
 <hr>
 
 <h6>other contact info:</h6>
-📧 <a href="mailto:suizld@pm.me">suizld@pm.me</a>
+📧 email: <a href="mailto:suizld@pm.me">suizld@pm.me</a>
 <br>
-💼 <a href="https://www.linkedin.com/in/otvv/">LinkedIn</a>
+💼 linkedin: <a href="https://www.linkedin.com/in/otvv/">otvv</a>
