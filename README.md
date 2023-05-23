@@ -28,6 +28,7 @@
   <li>🐧 Linux</li>
   <li>🏗 CMake</li>
   <li>🌵 Git</li> 
+  <li>🐋 Docker</li>
 <h6>testing libraries/frameworks</h6>
   <li>🃏 Jest</li>
   <li>🦑 React Testing Library</li>
@@ -36,11 +37,10 @@
 
 <h4>what i'm currently learning/planning to:</h4>
 <ul>
-  <li>🔵 TypeScript</li>
-  <li>☕ Java</li>
   <li>#️⃣ C#</li>
-  <li>🐋 Docker</li>
+  <li>🔵 TypeScript</li>
   <li>🐬 MySQL</li>
+  <li>☕ Java</li>
 </ul>
 
 <hr>
