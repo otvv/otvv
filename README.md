@@ -7,6 +7,8 @@
 
 🖥️ <i>fgui 3.0</i> - a C++ gui framework built with gaming hacking in mind
 
+🕹️ <i>fc multi gamemode</i> - a multi-gamemode resource (script) for a custom server written in LUA using the MTA San Andreas API, HTML, CSS and JavaScript
+
 <img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu/ui framework
 
 <hr>
