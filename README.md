@@ -43,6 +43,7 @@
   <li>🔵 TypeScript</li>
   <li>🐬 MySQL</li>
   <li>☕ Java</li>
+  <li>🐍 Python</li>
 </ul>
 
 <hr>
