@@ -42,8 +42,8 @@
   <li>#️⃣ C#</li>
   <li>🔵 TypeScript</li>
   <li>🐬 MySQL</li>
-  <li>☕ Java</li>
-  <li>🐍 Python</li>
+  <li>🚀 Kotlin</li>
+  <li>⚛️ React Native</li>
 </ul>
 <hr>
 
@@ -54,6 +54,6 @@
 </details>
 
 <h6>other contact info:</h6>
-📧 email: <a href="mailto:suizld@pm.me">suizld@pm.me</a>
+📧 email: <a href="mailto:otvhen@gmail.com">otvhen@gmail.com</a>
 <br>
 💼 linkedin: <a href="https://www.linkedin.com/in/otvv/">otvv</a>
