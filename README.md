@@ -17,6 +17,7 @@
 <ul>
 <h6>languages</h6>
   <li>➕ C++</li>
+  <li>#️⃣ C#</li>
   <li>🌐 HTML5</li>
   <li>🎨 CSS3</li>
   <li>🟡 JavaScript</li>
@@ -35,7 +36,6 @@
   <li>🃏 Jest</li>
   <li>🦑 React Testing Library</li>
   <li>☕ Chai & Mocha</li>
-  <li>#️⃣ C#</li>
 </ul>
 
 <h4>what i'm currently learning/planning to:</h4>
