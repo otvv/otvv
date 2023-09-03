@@ -35,11 +35,11 @@
   <li>🃏 Jest</li>
   <li>🦑 React Testing Library</li>
   <li>☕ Chai & Mocha</li>
+  <li>#️⃣ C#</li>
 </ul>
 
 <h4>what i'm currently learning/planning to:</h4>
 <ul>
-  <li>#️⃣ C#</li>
   <li>🔵 TypeScript</li>
   <li>🐬 MySQL</li>
   <li>🚀 Kotlin</li>
