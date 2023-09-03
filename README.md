@@ -12,7 +12,7 @@
 <img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu/ui framework
 
 <hr>
-<h4>language & tech stack:</h4>
+<h4>my tech stack:</h4>
 <ul>
 <h6>languages</h6>
   <li>➕ C++</li>
@@ -47,7 +47,7 @@
 <hr>
 
 <details>
-  <summary>my most used stacks:</summary>
+  <summary>my most used tech stack:</summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otvv&hide_progress=true)
 </details>
