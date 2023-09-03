@@ -12,8 +12,7 @@
 <img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure css and javascript menu/ui framework
 
 <hr>
-<h4>languages most used by me at the moment:</h4>
-
+<h4>language & tech stack:</h4>
 <ul>
 <h6>languages</h6>
   <li>➕ C++</li>
