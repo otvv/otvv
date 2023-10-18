@@ -9,7 +9,7 @@
 
 🕹️ <i>fc multi gamemode</i> - a multi-gamemode resource (script) for a custom server written in LUA using the MTA San Andreas API, HTML, CSS and JavaScript
 
-<img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - a pure CSS and JavaScript menu/ui framework
+<img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> malua</i> - pure CSS and JavaScript menu framework/ui toolkit
 
 <hr>
 <h4>my tech stack:</h4>
