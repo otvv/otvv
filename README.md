@@ -1,5 +1,6 @@
 <h2>hey there 👋</h2>
 
+_top notch quality avatar_
 
 <h4>what i'm currently working on</h4>
 
