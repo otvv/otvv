@@ -6,7 +6,7 @@ _top notch quality avatar_
 
 🦾 <i>muscl</i> - an easy to use modular scripting language/parser built to work alongside C++ applications
 
-🖥️ <i><a href="https://github.com/users/otvv/projects/2/views/1">fgui</a></i> - a C++ gui framework built with gaming hacking in mind
+🖥️ <i><a href="https://github.com/users/otvv/projects/2/views/1">fgui</a></i> - a C++ gui framework built with game hacking in mind
 
 🕹️ <i>fc multi gamemode</i> - a multi-gamemode resource (more like a POC at this point) for MTA San Andreas written using LUA, HTML, CSS, JavaScript and the MTA SA API.
 
