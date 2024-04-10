@@ -38,13 +38,6 @@ _top notch quality avatar_
   <li>☕ Chai & Mocha</li>
 </ul>
 
-<h4>what i'm currently learning/planning to:</h4>
-<ul>
-  <li>🔵 TypeScript</li>
-  <li>🐬 MySQL</li>
-  <li>🚀 Kotlin</li>
-  <li>⚛️ React Native</li>
-</ul>
 <hr>
 
 <details>
@@ -54,6 +47,6 @@ _top notch quality avatar_
 </details>
 
 <h6>other contact info:</h6>
-📧 email: <a href="mailto:otvhen@gmail.com">otvhen@gmail.com</a>
+📧 email: <a href="mailto:otvhen@gmail.com">otvhen@gmail.com</a> or <a href="mailto:suizld@pm.me">suizld@pm.me</a>
 <br>
 💼 linkedin: <a href="https://www.linkedin.com/in/otvv/">otvv</a>
