@@ -6,10 +6,6 @@ _top notch quality avatar_
 
 🦾 <i>muscl</i> - an easy to use modular scripting language/parser built to work alongside C++ applications
 
-🖥️ <i><a href="https://github.com/users/otvv/projects/2/views/1">fgui</a></i> - a C++ gui framework built with game hacking in mind
-
-🕹️ <i>fc multi gamemode</i> - a multi-gamemode resource (more like a POC at this point) for MTA San Andreas written using LUA, HTML, CSS, JavaScript and the MTA SA API.
-
 <img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> <a href="https://github.com/users/otvv/projects/1/views/1">malua</a></i> - pure CSS and JavaScript menu framework/ui toolkit
 
 <hr>
@@ -37,6 +33,8 @@ _top notch quality avatar_
   <li>🦑 React Testing Library</li>
   <li>☕ Chai & Mocha</li>
 </ul>
+
+_**note**_: _these are all the stacks that i use/used, so my knowledge on them might vary since i had different use cases for each._
 
 <hr>
 
