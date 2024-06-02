@@ -4,6 +4,8 @@ _top notch quality avatar_
 
 <h4>what i'm currently working on</h4>
 
+🌆 <i>wallpaperize!</i> - turn your oddly sized images into beautiful wallpapers!
+
 🦾 <i>muscl</i> - an easy to use modular scripting language/parser built to work alongside C++ applications
 
 <img width="20" height="17" src="https://user-images.githubusercontent.com/17851066/213260034-7106851e-74e5-4ec5-a83c-95ce291b356d.png" alt="pill emoji"><i> <a href="https://github.com/users/otvv/projects/1/views/1">malua</a></i> - pure CSS and JavaScript menu framework/ui toolkit (development currently paused)
