@@ -4,7 +4,7 @@ _top notch quality avatar_
 
 <h4>what i'm currently working on</h4>
 
-🌆 <i>wallpaperize!</i> - turn your oddly sized images into beautiful wallpapers!
+🌆 <i><a href="https://github.com/otvv/wallpaperize/">wallpaperize</i> - turn oddly sized images into beautiful wallpapers!
 
 🦾 <i>muscl</i> - an easy to use modular scripting language/parser built to work alongside C++ applications
 
