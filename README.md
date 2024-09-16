@@ -47,6 +47,6 @@ _**note**_: _these are all the stacks that i use/used, so my knowledge on them m
 </details>
 
 <h6>other contact info:</h6>
-📧 email: <a href="mailto:otvhen@gmail.com">otvhen@gmail.com</a> or <a href="mailto:suizld@pm.me">suizld@pm.me</a>
+📧 email: <a href="mailto:otvhen@gmail.com">otvhen@gmail.com</a>
 <br>
 💼 linkedin: <a href="https://www.linkedin.com/in/otvv/">otvv</a>
