@@ -9,32 +9,17 @@
 🦾 <i>muscl</i> - an easy to use modular scripting language/parser built to work alongside C++ applications
 
 <hr>
-<h4>my tech stack:</h4>
+<h4>stuff I use the most:</h4>
 <ul>
 <h6>languages</h6>
   <li>➕ C++</li>
   <li>#️⃣ C#</li>
+  <li>🟡 JavaScript</li>
+  <li>🟦 TypeScript</li>
+  <li>🌲 Node.js</li>
   <li>🌐 HTML5</li>
   <li>🎨 CSS3</li>
-  <li>🟡 JavaScript</li>
-  <li>🌲 Node.js</li>
-<h6>frameworks</h6>
-  <li>⚛️ React</li>
-  <li>🚦 React Router</li>
-  <li>🟪 Redux</li>
-  <li>🇽 ExpressJS</li>
-<h6>systems</h6>
-  <li>🐧 Linux</li>
-  <li>🏗 CMake</li>
-  <li>🌵 Git</li> 
-  <li>🐋 Docker</li>
-<h6>testing libraries/frameworks</h6>
-  <li>🃏 Jest</li>
-  <li>🦑 React Testing Library</li>
-  <li>☕ Chai & Mocha</li>
 </ul>
-
-_**note**_: _these are all the stacks that i use/have used in the past, so my knowledge on them might vary since i had different use cases for each._
 
 <hr>
 
