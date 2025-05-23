@@ -24,7 +24,7 @@
 <hr>
 
 <details>
-  <summary>my most used tech stack:</summary>
+  <summary>my most used programming languages:</summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otvv&hide_progress=true)
 </details>
